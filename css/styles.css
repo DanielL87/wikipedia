@@ -1,0 +1,58 @@
+.mainheader{
+  border: 1px solid gray;
+  background: #F9F9F5;
+  padding: 3px;
+  margin-left: 10%;
+  position: relative;
+}
+
+h1 p{
+  font-size: 15px;
+  text-align: center;
+}
+
+.subhead1{
+  font-size: 25px;
+  text-align: center;
+}
+.mainheader ul{
+  float: right;
+  margin: 25% 25% 25% 25%
+}
+
+img.wikilogo{
+  max-width: 150px;
+  max-height: 150px;
+  text-align: left;
+}
+
+.sidenav {
+    height: 100%;
+    width: 160px;
+    position: fixed;
+    top: 0;
+    left: 0;
+    background-color: inherit;
+    padding-top: 20px;
+}
+
+.sidenav ul {
+  font-size: 12px;
+  margin-right: 25%;
+  margin-top: 30px;
+  list-style: none;
+  float: left;
+
+}
+
+
+
+.sidenavheader {
+  text-decoration: underline;
+}
+
+.col-md-1 {
+  max-width: 10%;
+  max-height: 100%;
+  float: left;
+}
