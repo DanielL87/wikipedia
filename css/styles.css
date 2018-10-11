@@ -4,6 +4,8 @@
   padding: 3px;
   margin-left: 10%;
   position: relative;
+  margin-bottom: 15px;
+  margin-top: 15px;
 }
 
 h1 p{
@@ -53,4 +55,29 @@ img.wikilogo{
   max-width: 10%;
   max-height: 100%;
   float: left;
+}
+
+img.penny{
+  max-width: 150px;
+  float: left;
+  margin-right: 15px;
+}
+
+img.rocket {
+  max-width: 120px;
+  float: right;
+  margin-left: 15px;
+}
+
+.basic {
+  color: #31708f;
+  background-color: inherit;
+  border-color: inherit;
+  max-height: 15px;
+  margin: 2%;
+
+}
+
+.panel-heading{
+
 }
